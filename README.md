@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sujay Kamatkar</h1>
 <h3 align="center">A passionate frontend developer from India. I'm also interested in working on Machines Learning.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamatkarsujay" alt="kamatkarsujay" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/sujay_kamatkar" target="blank"><img src="https://img.shields.io/twitter/follow/sujay_kamatkar?logo=twitter&style=for-the-badge" alt="sujay_kamatkar" /></a> </p>
+
 - 🌱 I’m currently learning **MERN Stack, Machine Learning**
 
 - 📫 How to reach me **sujaykamatkar382@gmail.com**
@@ -9,9 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sujay kamatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujay kamatkar" height="30" width="40" /></a>
+<a href="https://twitter.com/sujay_kamatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujay_kamatkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sujay-kamatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujay-kamatkar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sk2501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sk2501" height="30" width="40" /></a>
+<a href="https://kaggle.com/sujaykamatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sujaykamatkar" height="30" width="40" /></a>
 <a href="https://instagram.com/_.imsujayk._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.imsujayk._" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kamatkarsujay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamatkarsujay" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sujaykamatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sujaykamatkar" height="30" width="40" /></a>
 </p>
 
