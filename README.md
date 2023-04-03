@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sujaykamatkar382@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/19fIvs3GzQn1yHroSGhtaYAiKRU_IPpZalubHW97mYCA/edit?usp=sharing](https://docs.google.com/document/d/19fIvs3GzQn1yHroSGhtaYAiKRU_IPpZalubHW97mYCA/edit?usp=sharing)
+- 📄 Know about my experiences [https://sujaykamatkar.vercel.app/](https://sujaykamatkar.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
